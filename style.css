@@ -1,0 +1,10 @@
+body{
+ font-family:serif; /** font is serif */
+ font-size:20pt; /** font size is 100pt */
+ color: black;/*text color is white*/
+ margin-left:10px; /*margin left is 10px*/
+background-image: url('port.png'); 
+ background-size: 100%;
+
+
+}

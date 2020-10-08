@@ -1,0 +1,31 @@
+/** This is a comment that the browser will ignore,
+* Put your CSS code into this file
+*/
+body
+{
+margin: 0;margin is 0
+padding: 0; padding is 0
+font-family: sans-serif;
+background-image: url('flower.jpg');
+
+
+}
+ 
+h1{
+ font-family:serif; /** font is serif */
+ font-size: 30pt; /** font size is 100pt */
+ margin-left:10px;
+}
+  
+.background{
+	background-image: url('images.jpg');/* background image is set
+ */
+}  
+
+th{
+	background-color: red; /*text background is red*/
+}
+
+tr{
+	background-color: white; /*text background is red*/
+}
